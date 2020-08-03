@@ -1,0 +1,11 @@
+
+Data/cord19_df.csv
+Data/df_covid_preprocessed.csv
+pickle_save/en_embedding_vocab_vector.pickle
+pickle_save/en_embedding_tfidf_matrix.pickle
+pickle_save/embedding_vocab_vector.pickle
+pickle_save/embedding_tfidf_matrix.pickle
+pickle_save/tfidf_model_matrix.pickle
+Preprocessing/embeddings_models/cc.en.300.bin
+Preprocessing/embeddings_models/cc.en.300.bin.gz
+Preprocessing/embeddings_models/wiki-news-300d-1M-subword/wiki-news-300d-1M-subword.vec
