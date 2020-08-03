@@ -4,7 +4,7 @@ Project based on the Kaggle's [CORD-19 dataset](https://www.kaggle.com/allen-ins
 
 ## Final aspect of this project: 
 At the end, the result looks like this:
-![Image of Dahsboard](https://github.com/adrihans/Covid-19/Dashboard/Capture_dashboard.JPG)
+![Image of Dahsboard](https://github.com/adrihans/Covid-19/blob/master/Dashboard/Capture_dashboard.JPG)
 
 ## About the project
 I am a 23 years old student from France.
