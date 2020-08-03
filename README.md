@@ -3,6 +3,11 @@ Project based on the Kaggle's [COVID-19 Open Research Dataset Challenge (CORD-19
 
 
 ## Final aspect of this project: 
+You can visualize the final Dashboard [here](https://adrihans.github.io/Covid-19/) or in the *index.html* file.
+
+**Disclaimer:** Since almost every callback functions have been written in Python, the notebook must be run to obtain the complete functionnalities of the Dashboard. Opening the html of the [link](https://adrihans.github.io/Covid-19/) only permits to have a general visualization of the Dashboard.
+
+
 At the end, the result looks like this:
 ![Image of Dahsboard](https://github.com/adrihans/Covid-19/blob/master/Dashboard/Capture_dashboard.JPG)
 
