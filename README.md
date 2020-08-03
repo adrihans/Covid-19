@@ -18,6 +18,9 @@ At the end, the result looks like this:
 - Representation in 2D of the articles with dimensionnality reduction, considering several techniques
 - free text search and answers to the tasks presented by Kaggle
 
+
+The main notebook is [this one], with all the intersting parts. But of course a lot of work have been done before and can also be found in this Github repo, from preprocessing raw data to processing in details the text and cleaning the datasets.
+
 ## About the project
 I am a 23 years old student from France.
 
